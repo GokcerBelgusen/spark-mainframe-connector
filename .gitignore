@@ -1,0 +1,10 @@
+# General
+*~
+
+# target directories
+/project/target
+/target
+/outputfile
+/TestMainframeConnector.scala
+/spark_mainframe_env.sh
+
